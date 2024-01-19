@@ -5,3 +5,4 @@ yolov3.*
 dataset/*
 examples/*
 output_videos/*
+analysis/*
