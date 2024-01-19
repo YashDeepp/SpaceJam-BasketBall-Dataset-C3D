@@ -1,0 +1,7 @@
+*.pth
+model_checkpoints/*
+histories/*
+yolov3.*
+dataset/*
+examples/*
+output_videos/*
